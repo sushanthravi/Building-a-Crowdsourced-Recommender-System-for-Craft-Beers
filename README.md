@@ -2,8 +2,7 @@
 In this project, we created a crowdsourced recommender system for craft beers based on user reviews from beeradvocate.com.
 
 ## Project Summary: **Building a Crowdsourced Recommender System for Craft Beers**
-
-In this project, we built a **crowdsourced recommender system** for craft beers, using user reviews from **beeradvocate.com** to recommend the top 3 beers based on user preferences for specific beer attributes. The steps we followed include:
+The steps we followed include:
 
 ### 1. Data Collection:
 - We scraped around **5-6k reviews** from the **top-rated beers** section of beeradvocate.com, ultimately using **1700-2000 reviews** for our analysis. The dataset contained columns for **product name**, **product review**, and **user rating**.
